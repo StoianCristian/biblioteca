@@ -1,4 +1,4 @@
 package dao;
 
-public class gitt {
+public class gitt extends Autori{
 }
