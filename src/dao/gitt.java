@@ -1,4 +1,6 @@
 package dao;
 
-public class gitt extends Autori{
+import model.Autori;
+
+public class gitt extends Autori {
 }
